@@ -17,4 +17,17 @@ Project is created with:
 * assets from UnityAssets
 
 ## Gameplay
+* Menu start
+![Menu start](./Gameplay/Menu.jpg)
 
+* Option with change volume - singleton
+![Change volume](./Gameplay/Option.jpg)
+
+* Moving enemy
+![Moving enemy](./Gameplay/First_enemy.png)
+
+* Player's castle
+![Player's castle](./Gameplay/Castle.png)
+
+* Placing tower
+![Placing tower](./Gameplay/Put_tower.png)
