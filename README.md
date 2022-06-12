@@ -15,6 +15,7 @@ isn't destroy after 20 waves of enemy. Player can buy special skill to slow down
 Project is created with:
 * Unity 2020.3.30f1
 * assets from UnityAssets
+* Dotween PRO
 
 ## Gameplay
 * Menu start
